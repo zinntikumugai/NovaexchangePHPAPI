@@ -1,6 +1,6 @@
 # NovaexchangePHPAPI
 
-暗号通貨取引所__NOVAEXCHANGE__のPHPライブラリです。  
+暗号通貨取引所 __NOVAEXCHANGE__ のPHPライブラリです。  
 ~~TwitterBOTに必要になったため作ってみましたがただのHTTPアクセスと変わりません~~  
 
 # はじめに
